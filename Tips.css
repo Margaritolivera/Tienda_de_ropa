@@ -1,0 +1,28 @@
+.divPrincipal{
+    width: 100%;
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div{
+    width: 30%;
+}
+.img{
+    width: 80%;
+    border-radius: 20%;
+    margin: 2%;
+}
+.div2{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divText{
+    border-bottom: solid 3px ;
+}
+.divText2{
+    text-align: center;
+}
